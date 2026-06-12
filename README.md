@@ -1,10 +1,12 @@
 # 3DMillipedeBar_ABAQUS
 Summary of ABAQUS results for 3D Millipede Bar simulations
 
-Short striker = 18cm ~ 7in
-Long striker = 76cm ~ 30in
+Short striker = 18cm (~7in)
+
+Long striker = 76cm (~30in)
 
 Striker displacement is limited to axial-only motion
+
 
 Simulation animation summary:
 
