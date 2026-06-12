@@ -7,6 +7,7 @@ Long striker = 76cm (~30in)
 
 Striker displacement is limited to axial-only motion
 
+Boundary conditions allow axial motion and impede transverse motion
 
 Simulation animation summary:
 
