@@ -11,7 +11,5 @@ Simulation animation summary:
 1) Short striker with boundary conditions
 2) Long striker with boundary conditions
 3) Millipede striker with boundary conditions
-4a) Short striker unconstrained
-4b) Short striker unconstrained with deformation scale factor x100
-5a) Long striker unconstrained
-5b) Long striker unconstrained with deformation scale factor x25
+4) (a) Short striker unconstrained (b) Short striker unconstrained with deformation scale factor x100
+5) (a) Long striker unconstrained (b) Long striker unconstrained with deformation scale factor x25
